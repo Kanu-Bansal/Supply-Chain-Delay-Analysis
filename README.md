@@ -5,10 +5,11 @@ This project analyzes delivery delays in an e-commerce supply chain
 and predicts high-risk shipments using Machine Learning (Logistic Regression).
 
 ## 🛠️ Tools Used
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-181717?style=for-the-badge&logo=pandas)
+![Power BI](https://img.shields.io/badge/Power_BI-181717?style=for-the-badge&logo=powerbi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-181717?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 
 ## 📊 Key Insights
 
